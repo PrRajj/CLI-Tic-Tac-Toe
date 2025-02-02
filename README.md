@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Run the game using:
 
 ```sh
-python tic_tac_toe.py
+python main.py
 ```
 
 Follow the on-screen prompts to take turns placing `X` and `O` on the board, with a visually enhanced interface provided by the `rich` library.
