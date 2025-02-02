@@ -18,7 +18,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/PrRajj/CLI-Tic-Tac-Toe.git
 cd tic-tac-toe
 ```
 
